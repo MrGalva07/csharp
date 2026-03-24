@@ -1,0 +1,15 @@
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\bin\Debug\net10.0\ifelse.exe
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\bin\Debug\net10.0\ifelse.deps.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\bin\Debug\net10.0\ifelse.runtimeconfig.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\bin\Debug\net10.0\ifelse.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\bin\Debug\net10.0\ifelse.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.AssemblyInfoInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.AssemblyInfo.cs
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.csproj.CoreCompileInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.sourcelink.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\refint\ifelse.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ifelse.genruntimeconfig.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-06\ifelse\obj\Debug\net10.0\ref\ifelse.dll
