@@ -1,0 +1,15 @@
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\bin\Debug\net10.0\looping.exe
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\bin\Debug\net10.0\looping.deps.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\bin\Debug\net10.0\looping.runtimeconfig.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\bin\Debug\net10.0\looping.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\bin\Debug\net10.0\looping.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.AssemblyInfoInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.AssemblyInfo.cs
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.csproj.CoreCompileInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.sourcelink.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\refint\looping.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\looping.genruntimeconfig.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-09\looping\obj\Debug\net10.0\ref\looping.dll
