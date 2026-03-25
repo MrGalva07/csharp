@@ -1,0 +1,15 @@
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.AssemblyInfoInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.AssemblyInfo.cs
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.csproj.CoreCompileInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.sourcelink.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\bin\Debug\net10.0\switchcase.exe
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\bin\Debug\net10.0\switchcase.deps.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\bin\Debug\net10.0\switchcase.runtimeconfig.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\bin\Debug\net10.0\switchcase.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\bin\Debug\net10.0\switchcase.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\refint\switchcase.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\switchcase.genruntimeconfig.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-07\switchcase\obj\Debug\net10.0\ref\switchcase.dll

@@ -1,0 +1,15 @@
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\bin\Debug\net10.0\const.exe
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\bin\Debug\net10.0\const.deps.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\bin\Debug\net10.0\const.runtimeconfig.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\bin\Debug\net10.0\const.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\bin\Debug\net10.0\const.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.AssemblyInfoInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.AssemblyInfo.cs
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.csproj.CoreCompileInputs.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.sourcelink.json
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\refint\const.dll
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.pdb
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\const.genruntimeconfig.cache
+C:\Users\luckg\OneDrive\Área de Trabalho\c#\course\aula-08\const\obj\Debug\net10.0\ref\const.dll
